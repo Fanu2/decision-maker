@@ -1,10 +1,3 @@
-Great 👍
-Below is a **more elaborate, polished, and “serious” README** suitable for a **foundational / long-term project**.
-It’s written to scale with the repo as it grows and reads well for **engineers, reviewers, and future collaborators**.
-
-You can **paste this directly as `README.md`**.
-
----
 
 # Decision Maker
 
